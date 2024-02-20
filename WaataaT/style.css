@@ -1,0 +1,86 @@
+img{
+    max-width: 100%;
+}
+
+
+/* .puppy-2 {
+    display: inline-block;
+}  */
+
+/* .puppy-section .fixed -container{
+    display: flex;
+    left: 44px;
+    right: 25px; */
+
+/* 2. position-property */
+.puppy{
+    position: fixed;
+    size: 22px;
+    height:22;
+    left: 44px;
+    right: 44px;
+}
+.puppy1{
+    position: relative;
+    top: 100px;
+    bottom: 45px;
+    right: 25px;
+    left: 25px;
+    height: 55;
+    width: 200;
+    
+}
+/* B. Absolute: Bakkan Ofii barbaade kaa"uu
+ .puppy2{
+    position: absolute;
+    top: 10px;
+    left: 100px;
+} */
+/* .puppy2 img,
+.puppy1 img,
+.missing-puppy{
+    width: 33%;} */
+
+/* .puppy2 img,
+.puppy1 img,
+.missing-puppy img{
+    width: 100%;
+} */
+
+.puppy {
+   margin-left: 33px;
+   margin-right: 44px;
+}
+.puppy {
+    padding: 22px;
+}
+.h1 {
+    padding: 55px;
+}
+#myheader{
+    margin-left: 22px;
+    margin-right: 33px;
+    margin-top: 5px;
+    margin-bottom: 3px;
+}
+body{
+color: rgb(20, 41, 176);
+}
+p1{
+    background-color: bisque;
+}
+.additional-poppies h2{
+    margin-top: 20px;
+}
+.additional-puppies{
+    margin-left: 55px;
+margin-right: 65px;
+text-align: center;
+}
+
+header{
+    font-family: arial;
+}
+.more-puppies-wrapped{
+    display: flex;
+}
